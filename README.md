@@ -25,7 +25,7 @@ We are focusing this lesson on creating the HTML and CSS for the caclulator. Our
 
 ## Suggested approach:
 
-- Create a wrapper with a width of 400px to set up the calculator.
+//- Create a wrapper with a width of 400px to set up the calculator.
 - Determine how many rows and columns we need.
 - Identify elements that occupy more than one column.
 - Determine the HTML tags required to code rows and cells.

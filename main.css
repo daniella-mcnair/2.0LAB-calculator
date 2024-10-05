@@ -1,0 +1,17 @@
+#calc {
+  flex-direction: row;
+  width: 400px;
+  background-color: aqua;
+}
+
+.row1 {
+  width: 400px;
+}
+
+.total {
+  background:black;
+  color:white;
+  display:inline-block;
+  padding: 1px 5px;
+  width: 400px;
+}
