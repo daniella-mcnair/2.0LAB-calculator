@@ -1,7 +1,10 @@
 #calc {
+  display: inline;
   flex-direction: row;
+  flex-wrap: wrap;
   width: 400px;
   background-color: aqua;
+  justify-content: center;
 }
 
 .row1 {
@@ -14,4 +17,32 @@
   display:inline-block;
   padding: 1px 5px;
   width: 400px;
+}
+
+.Cbutton {
+  background:#d8d9db;
+  display:inline-block;
+  padding:1px 5px;
+  width: 200px;
+}
+
+.greySqBtn {
+  background:#d8d9db;
+  display:inline-block;
+  padding:1px 5px;
+  width: 100px;
+}
+
+.orangeSqbtn {
+  background:#ffa052;
+  display:inline-block;
+  padding:1px 5px;
+  width: 100px;
+}
+
+.CLongbutton {
+  background:#d8d9db;
+  display:inline-block;
+  padding:1px 5px;
+  width: 300px;
 }
