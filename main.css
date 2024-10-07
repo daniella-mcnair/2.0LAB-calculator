@@ -6,7 +6,6 @@
   background-color: aqua;
   justify-content: center;
   row-gap: 0px;
-  
 }
 
 .row1 {
@@ -74,4 +73,32 @@
   border-top:grey ;
   border-left:grey;
   border-top: black;
+}
+
+.Cbutton {
+  background:#d8d9db;
+  display:inline-block;
+  padding:1px 5px;
+  width: 200px;
+}
+
+.greySqBtn {
+  background:#d8d9db;
+  display:inline-block;
+  padding:1px 5px;
+  width: 100px;
+}
+
+.orangeSqbtn {
+  background:#ffa052;
+  display:inline-block;
+  padding:1px 5px;
+  width: 100px;
+}
+
+.CLongbutton {
+  background:#d8d9db;
+  display:inline-block;
+  padding:1px 5px;
+  width: 300px;
 }
