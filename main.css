@@ -2,7 +2,7 @@
   display: inline;
   flex-direction: row;
   flex-wrap: wrap;
-  width: 400px;
+  width: 500px;
   background-color: aqua;
   justify-content: center;
   row-gap: 0px;
@@ -17,49 +17,53 @@
   background:black;
   color:white;
   display:inline-block;
-  padding: 1px 5px;
+  padding: 15px 5px 15px 5px;
   width: 400px;
   text-align: right;
-  font-size: 50px;
+  font-size: 35px;
   margin: 0px 0px 0px 0px;
   border: 2px;
   border-color: black;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .Cbutton {
   background:#d8d9db;
   display:inline-block;
-  padding: 5px 5px 5px 5px;
+  padding: 15px 0px 5px 0px;
   width: 200px;
-  font-size: 50px;
+  font-size: 35px;
   margin: 0px 0px 0px 0px;
   border-width: 2px;
   border-top:grey ;
   border-left:grey;
   border-top: black;
+  font-family: Arial, Helvetica, sans-serif;
   ;
 }
 
 .greySqBtn {
   background:#d8d9db;
   display:inline-block;
-  padding: 5px 5px 5px 5px;
+  padding: 0px 15px 0px 15px;
   width: 100px;
   font-size: 50px;
   border-width: 2px;
   border-top:grey ;
   border-left:grey;
   border-top: black;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .orangeSqbtn {
   background:#ffa052;
   display:inline-block;
-  padding:4px 5px 10px 5px;
+  padding:0px 5px 0px 5px;
   width: 100px;
   font-size: 50px;
   border-top:#d8d9db;
-  border-right:#ffa052
+  border-right:#ffa052;
+  font-family: Arial, Helvetica, sans-serif;
   
 ;
 }
@@ -67,11 +71,12 @@
 .CLongbutton {
   background:#d8d9db;
   display:inline-block;
-  padding: 5px 5px 5px 5px;
+  padding: 15px 5px 5px 5px;
   width: 300px;
-  font-size: 50px;
+  font-size: 35px;
   border-width: 2px;
   border-top:grey ;
   border-left:grey;
   border-top: black;
+  font-family: Arial, Helvetica, sans-serif;
 }
